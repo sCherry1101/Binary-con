@@ -22,11 +22,8 @@ git clone https://github.com/scherry1101/binary-con.git
 # Navigate into project folder
 cd binary-con
 
-# Run the converter (Python example)
-python binary_con.py
 
 # Tech stack
 HTML 
 CSS
-Python
 JS
